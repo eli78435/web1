@@ -1,0 +1,249 @@
+# Ignore Visual Studio temporary files, build results, and
+# commonly ignored files.
+#
+# Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono Auto Generated)
+mono_crash.*
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Add the NuGet packages folder
+**/packages
+*.nupkg
+*.snupkg
+
+# Ignore package-lock.json files
+*.lock.json
+
+# Include if you have a NuGet Packages folder that is outside the solution
+# **/packages
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Auto generated dump files
+*.dmp
+*.stackdump
+
+# Chutzpah Test files
+_*.html
+_*.css
+_*.js
+
+# Coverlet Coverage
+coverage.*
+
+# Visual Studio profiler
+*.vspx
+*.vsp
+*.vspf
+*.vspscc
+
+# Test results
+[Tt]est[Rr]esult*
+[Tt]est[Rr]esults/
+*.trx
+*.user.unittesting
+
+# nCrunch
+*.ncrunchsolution
+*.ncrunchproject
+
+# MSTest test run results
+*.TestResults
+[Mm]ock*
+
+# Files built by visual studio
+*.BuildServer
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# DevDiv test lab markers
+*.lab
+*.lab.sln
+*.labproj
+*.labncrunch
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Ll]og.txt
+
+# Microsoft Azure Web App publish settings
+#  # Generally these are temporary files and should not be included in the repository.
+*.PublishSettings
+
+# OneDrive files
+*.~*
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+.StyleCop/
+
+# Files built by Visual Studio
+*.BuildServer
+
+# VS Code directories
+.vscode/
+.history/
+
+# Node.js directories
+node_modules/
+
+# Package directories
+**/packages
+**/node_modules
+
+# Web settings
+*.publishsettings
+.pubxml
+*.publishproj
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Backup of BootCamp and other Windows partitions
+*.disk*
+
+# Windows 10 file system
+$GetCurrent/
+$Recycle.Bin/
+
+# Windows Update files
+*.log
+*.logs
+
+# Windows error reporting
+*.wer
+
+# Windows Media Center
+*.bin
+
+# Windows Prefetch folder
+*.pf
+
+# Windows Search
+*.pmbx
+*.pbhd
+*.evtx
+
+# Windows Volume Shadow Copy
+*.vhdx
+*.bak
+
+# Windows Sync Settings
+*.dat
+
+# Windows thumbnails
+*.db
+
+# Windows Metro
+*.appx
+
+# Windows drivers
+*.pdb
+*.sys
+*.syscfg
+*.sdi
+
+# Windows Image Acquisition
+*.inf
+*.dpx
+
+# Windows Printer
+*.spl
+*.shd
+
+# Windows Storage Pools
+*.pool
+*.dmp
+
+# Windows IO
+*.drv
+
+# Windows Language Pack
+*.mui
+*.mlc
+
+# Windows Shell Extensions
+*.dll
+*.sdl
+
+# Windows I/O
+*.df
+*.dll
+
+# Windows API
+*.nls
+
+# Windows performance
+*.etl
+
+# Windows licensing
+*.slupkg
+
+# Windows memory dumps
+*.dmp
+
+# Windows error reporting
+*.wer
+
+# Windows search
+*.evtx
+
+# Windows update
+*.
